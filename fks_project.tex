@@ -1,0 +1,29 @@
+\documentclass[a4paper,14pt,cmcyralt]{report} %14-й шрифт
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[english,russian]{babel}
+\usepackage{gnuplottex}
+\usepackage{graphicx}
+\graphicspath{{pics/}} %Папка для рисунков
+\usepackage{amsmath,amssymb}
+\usepackage{amsfonts}
+\usepackage{textcomp}
+
+\newcommand{\anonchapter}[1]{\chapter*{#1}\addcontentsline{toc}{chapter}{\numberline {}#1}}
+\newcommand{\anonsubsection}[1]{\subsection*{#1}\addcontentsline{toc}{subsection}{\numberline {}#1}}
+\setcounter{tocdepth}{0}
+
+\newenvironment{introduction}
+
+%\usepackage{geometry}
+%\geometry{left=2cm}
+%\geometry{right=2cm}
+%\geometry{top=2cm}
+%\geometry{bottom=2cm}
+
+\begin{document}
+\input{fks_title} %Титульный лист
+\tableofcontents %Автоматический список литературы
+\input{fks_intro}
+\input{fks_1}
+\end{document}
