@@ -10,7 +10,6 @@
 \usepackage{textcomp}
 
 \newcommand{\anonchapter}[1]{\chapter*{#1}\addcontentsline{toc}{chapter}{\numberline {}#1}}
-\newcommand{\anonsubsection}[1]{\subsection*{#1}\addcontentsline{toc}{subsection}{\numberline {}#1}}
 \setcounter{tocdepth}{0}
 
 \newenvironment{introduction}
@@ -22,8 +21,8 @@
 %\geometry{bottom=2cm}
 
 \begin{document}
-\input{fks_title} %Титульный лист
+\input{chapters/fks_title} %Титульный лист
 \tableofcontents %Автоматический список литературы
-\input{fks_intro}
-\input{fks_1}
+\input{chapters/fks_intro}
+\input{chapters/fks_1}
 \end{document}
