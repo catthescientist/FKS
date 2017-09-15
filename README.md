@@ -1,3 +1,3 @@
-Solid-state physick labs for students of 3rd grade of NUST "MISiS".
+Solid-state physics labs for students of 3rd grade of NUST "MISiS".
 
 Лабораторный практикум по физике конденсированного состояния для студентов третьего курса по специальности "микроэлектроника и твердотельная электроника" института новых материалов и нанотехнологий НИТУ "МИСиС".
