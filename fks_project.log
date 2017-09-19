@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  15 SEP 2017 18:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  19 SEP 2017 14:13
 entering extended mode
 **./fks_project.tex
 (fks_project.tex
@@ -632,9 +632,9 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))
 \verbatim@out=\write3
-runsystem(touch w18-test-20179151108.tex)...executed.
+runsystem(touch w18-test-2017919853.tex)...executed.
 
-runsystem(rm -f w18-test-20179151108.tex)...executed.
+runsystem(rm -f w18-test-2017919853.tex)...executed.
 
 runsystem(rm -f "fks_project.gnuploterrors")...executed.
 
@@ -872,7 +872,14 @@ Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
 LaTeX Warning: Unused global option(s):
     [14pt,cmcyralt].
 
-(fks_project.aux)
+(fks_project.aux
+
+LaTeX Warning: Label `eq2_ni_T' multiply defined.
+
+
+LaTeX Warning: Label `1_table' multiply defined.
+
+)
 \openout1 = `fks_project.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
@@ -954,21 +961,21 @@ G,.JBIG2,.JB2,.eps]
 ]) (chapters/fks_1.tex [2
 
 ]
-Overfull \hbox (0.88776pt too wide) in paragraph at lines 12--13
+Overfull \hbox (0.88776pt too wide) in paragraph at lines 13--14
 \T2A/cmr/m/n/10 Определение рас-пре-де-ле-ния удель-но-го со-про-тив-ле-ния по 
 длине пря-мо-уголь-
  []
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 18.
+LaTeX Font Info:    Try loading font information for U+msa on input line 19.
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 18.
+LaTeX Font Info:    Try loading font information for U+msb on input line 19.
 
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (0.43648pt too wide) in paragraph at lines 18--19
+Overfull \hbox (0.43648pt too wide) in paragraph at lines 19--20
  \T2A/cmr/bx/n/10 Ха-рак-те-ри-сти-ка удель-но-го со-про-тив-ле-ния по-лу-про-в
 од-ни-ков[] \T2A/cmr/m/n/10 Фун-
  []
@@ -976,25 +983,25 @@ Overfull \hbox (0.43648pt too wide) in paragraph at lines 18--19
 [3
 
 ] [4]
-Overfull \hbox (4.78264pt too wide) in paragraph at lines 93--94
+Overfull \hbox (4.78264pt too wide) in paragraph at lines 94--95
  \T2A/cmr/bx/n/10 По-движ-ность сво-бод-ных но-си-те-лей за-ря-да[] \T2A/cmr/m/
 n/10 Для объ-яс-не-ния то-го фак-
  []
 
 [5] [6]
-Overfull \hbox (0.75554pt too wide) in paragraph at lines 113--114
+Overfull \hbox (0.75554pt too wide) in paragraph at lines 114--115
 \T2A/cmr/m/n/10 невы-рож-ден-ным. По-след-ние опи-сы-ва-ют-ся клас-си-че-ской с
 та-ти-сти-кой Больц-
  []
 
 [7]
-Overfull \hbox (7.8305pt too wide) in paragraph at lines 127--128
+Overfull \hbox (7.8305pt too wide) in paragraph at lines 128--129
 \T2A/cmr/m/n/10 при-ме-не-ния мо-но-кри-стал-ли-че-ских об-раз-цов пра-виль-ной
  гео-мет-ри-че-ской фор-
  []
 
 
-Overfull \hbox (1.16547pt too wide) in paragraph at lines 127--128
+Overfull \hbox (1.16547pt too wide) in paragraph at lines 128--129
 \T2A/cmr/m/n/10 мы (удли-нен-ный пря-мо-уголь-ный па-рал-ле-ле-пи-пед или ци-ли
 н-дри-че-ский стер-
  []
@@ -1007,21 +1014,21 @@ Package epstopdf Info: Source file: <pics/pic1_1.eps>
 (epstopdf)                    size: 6295 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic1_1-eps-converted-t
 o.pdf pics/pic1_1.eps>
-(epstopdf)             \includegraphics on input line 130.
+(epstopdf)             \includegraphics on input line 131.
 Package epstopdf Info: Output file is already uptodate.
 <pics/pic1_1-eps-converted-to.pdf, id=42, 113.42375pt x 113.42375pt>
 File: pics/pic1_1-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic1_1-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic1_1-eps-converted-to.pdf used on input line 13
-0.
+1.
 (pdftex.def)             Requested size: 113.81113pt x 113.81102pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [8]
-Overfull \hbox (4.67148pt too wide) in paragraph at lines 157--157
+Overfull \hbox (4.67148pt too wide) in paragraph at lines 158--158
 \T2A/cmr/bx/n/12 не-ния в двух-зон-до-вых из-ме-ре-ни-ях удель-но-го элек-
  []
 
@@ -1034,7 +1041,7 @@ Package epstopdf Info: Source file: <pics/pic1_2.eps>
 (epstopdf)                    size: 10345 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic1_2-eps-converted-t
 o.pdf pics/pic1_2.eps>
-(epstopdf)             \includegraphics on input line 165.
+(epstopdf)             \includegraphics on input line 166.
 Package epstopdf Info: Output file is already uptodate.
 
 <pics/pic1_2-eps-converted-to.pdf, id=51, 107.40125pt x 107.40125pt>
@@ -1042,10 +1049,10 @@ File: pics/pic1_2-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic1_2-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic1_2-eps-converted-to.pdf used on input line 16
-5.
+6.
 (pdftex.def)             Requested size: 113.81361pt x 113.81102pt.
 
-Overfull \hbox (1.707pt too wide) in paragraph at lines 176--177
+Overfull \hbox (1.707pt too wide) in paragraph at lines 177--178
  \T2A/cmr/bx/n/10 Вклад па-ра-зит-ных тер-мо-ЭДС.[] \T2A/cmr/m/n/10 При из-ме-р
 е-нии на вы-со-ких то-ках вдоль
  []
@@ -1059,7 +1066,7 @@ Package epstopdf Info: Source file: <pics/pic1_3.eps>
 (epstopdf)                    size: 10371 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic1_3-eps-converted-t
 o.pdf pics/pic1_3.eps>
-(epstopdf)             \includegraphics on input line 195.
+(epstopdf)             \includegraphics on input line 196.
 Package epstopdf Info: Output file is already uptodate.
 
 <pics/pic1_3-eps-converted-to.pdf, id=57, 148.555pt x 73.27374pt>
@@ -1067,7 +1074,7 @@ File: pics/pic1_3-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic1_3-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic1_3-eps-converted-to.pdf used on input line 19
-5.
+6.
 (pdftex.def)             Requested size: 230.7384pt x 113.81102pt.
  [11 <./pics/pic1_3-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pics/pic1_4.eps>
@@ -1078,53 +1085,47 @@ Package epstopdf Info: Source file: <pics/pic1_4.eps>
 (epstopdf)                    size: 14342 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic1_4-eps-converted-t
 o.pdf pics/pic1_4.eps>
-(epstopdf)             \includegraphics on input line 207.
+(epstopdf)             \includegraphics on input line 208.
 Package epstopdf Info: Output file is already uptodate.
  <pics/pic1_4-eps-converted-to.pdf, id=63, 119.44624pt x 69.25874pt>
 File: pics/pic1_4-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic1_4-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic1_4-eps-converted-to.pdf used on input line 20
-7.
+8.
 (pdftex.def)             Requested size: 196.28311pt x 113.81102pt.
  [12 <./pics/pic1_4-eps-converted-to.pdf>]
 
-LaTeX Warning: Command \textendash invalid in math mode on input line 220.
+LaTeX Warning: Command \textendash invalid in math mode on input line 221.
 
 [13]
-Overfull \hbox (1.44931pt too wide) in paragraph at lines 260--261
+Overfull \hbox (1.44931pt too wide) in paragraph at lines 261--262
 []\T2A/cmr/m/n/10 Чем опре-де-ля-ет-ся тем-пе-ра-тур-ная за-ви-си-мость элек-тр
 о-про-вод-но-сти по-
  []
 
-
-Overfull \hbox (6.93013pt too wide) in paragraph at lines 275--276
-\T2A/cmr/m/n/10 ров по-лу-про-вод-ни-ко-вых ма-те-ри-а-лов и струк-тур. М.: "Ра
--дио и связь 1985
- []
-
 ) (chapters/fks_2.tex [14]
-Overfull \hbox (1.78325pt too wide) in paragraph at lines 15--15
+Overfull \hbox (1.78325pt too wide) in paragraph at lines 16--16
 []\T2A/cmr/bx/n/12 Температурная за-ви-си-мость элек-тро-про-вод-но-сти 
  []
 
 Package epstopdf Info: Source file: <pics/pic2_zone.eps>
-(epstopdf)                    date: 2017-09-14 17:21:35
-(epstopdf)                    size: 16215 bytes
+(epstopdf)                    date: 2017-09-18 13:15:03
+(epstopdf)                    size: 16381 bytes
 (epstopdf)             Output file: <pics/pic2_zone-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-09-14 17:54:20
-(epstopdf)                    size: 7532 bytes
+(epstopdf)                    date: 2017-09-18 13:16:50
+(epstopdf)                    size: 7585 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic2_zone-eps-converte
 d-to.pdf pics/pic2_zone.eps>
-(epstopdf)             \includegraphics on input line 37.
+(epstopdf)             \includegraphics on input line 38.
 Package epstopdf Info: Output file is already uptodate.
-<pics/pic2_zone-eps-converted-to.pdf, id=77, 106.3975pt x 77.28876pt>
+<pics/pic2_zone-eps-converted-to.pdf, id=77, 105.39375pt x 77.28876pt>
 File: pics/pic2_zone-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic2_zone-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic2_zone-eps-converted-to.pdf used on input line
- 37.
-(pdftex.def)             Requested size: 156.68817pt x 113.81102pt.
+ 38.
+(pdftex.def)             Requested size: 155.20996pt x 113.81102pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
@@ -1137,14 +1138,14 @@ Package epstopdf Info: Source file: <pics/pic2_n_T.eps>
 (epstopdf)                    size: 15504 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic2_n_T-eps-converted
 -to.pdf pics/pic2_n_T.eps>
-(epstopdf)             \includegraphics on input line 43.
+(epstopdf)             \includegraphics on input line 44.
 Package epstopdf Info: Output file is already uptodate.
 <pics/pic2_n_T-eps-converted-to.pdf, id=78, 114.4275pt x 80.3pt>
 File: pics/pic2_n_T-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic2_n_T-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic2_n_T-eps-converted-to.pdf used on input line 
-43.
+44.
 (pdftex.def)             Requested size: 162.18611pt x 113.81102pt.
 
 
@@ -1155,14 +1156,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 ] [16 <./pics/pic2_zone-eps-converted-to.pdf> <./pics/pic2_n_T-eps-converted-to
 .pdf>]
 Package epstopdf Info: Source file: <pics/pic2_E_T.eps>
-(epstopdf)                    date: 2017-09-15 17:07:54
-(epstopdf)                    size: 37301 bytes
+(epstopdf)                    date: 2017-09-18 13:16:25
+(epstopdf)                    size: 42907 bytes
 (epstopdf)             Output file: <pics/pic2_E_T-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-09-15 18:27:20
-(epstopdf)                    size: 15105 bytes
+(epstopdf)                    date: 2017-09-18 13:16:51
+(epstopdf)                    size: 17266 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic2_E_T-eps-converted
 -to.pdf pics/pic2_E_T.eps>
-(epstopdf)             \includegraphics on input line 79.
+(epstopdf)             \includegraphics on input line 81.
 Package epstopdf Info: Output file is already uptodate.
 
 <pics/pic2_E_T-eps-converted-to.pdf, id=91, 127.47626pt x 111.41624pt>
@@ -1170,39 +1171,131 @@ File: pics/pic2_E_T-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic2_E_T-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic2_E_T-eps-converted-to.pdf used on input line 
-79.
+81.
 (pdftex.def)             Requested size: 130.21661pt x 113.81102pt.
-) [17 <./pics/pic2_E_T-eps-converted-to.pdf>] [18] (fks_project.aux) ) 
+ [17 <./pics/pic2_E_T-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pics/pic2_mu_T.eps>
+(epstopdf)                    date: 2017-09-18 13:14:16
+(epstopdf)                    size: 17612 bytes
+(epstopdf)             Output file: <pics/pic2_mu_T-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-18 13:16:52
+(epstopdf)                    size: 8319 bytes
+(epstopdf)             Command: <epstopdf --outfile=pics/pic2_mu_T-eps-converte
+d-to.pdf pics/pic2_mu_T.eps>
+(epstopdf)             \includegraphics on input line 102.
+Package epstopdf Info: Output file is already uptodate.
+ <pics/pic2_mu_T-eps-converted-to.pdf, id=97, 117.43875pt x 94.3525pt>
+File: pics/pic2_mu_T-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pics/pic2_mu_T-eps-converted-to.pdf>
+Package pdftex.def Info: pics/pic2_mu_T-eps-converted-to.pdf used on input line
+ 102.
+(pdftex.def)             Requested size: 141.65869pt x 113.81102pt.
+Package epstopdf Info: Source file: <pics/pic2_sigma_T.eps>
+(epstopdf)                    date: 2017-09-18 12:37:37
+(epstopdf)                    size: 15499 bytes
+(epstopdf)             Output file: <pics/pic2_sigma_T-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-18 12:46:30
+(epstopdf)                    size: 7380 bytes
+(epstopdf)             Command: <epstopdf --outfile=pics/pic2_sigma_T-eps-conve
+rted-to.pdf pics/pic2_sigma_T.eps>
+(epstopdf)             \includegraphics on input line 112.
+Package epstopdf Info: Output file is already uptodate.
+
+<pics/pic2_sigma_T-eps-converted-to.pdf, id=98, 114.4275pt x 90.3375pt>
+File: pics/pic2_sigma_T-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pics/pic2_sigma_T-eps-converted-to.pdf>
+Package pdftex.def Info: pics/pic2_sigma_T-eps-converted-to.pdf used on input l
+ine 112.
+(pdftex.def)             Requested size: 144.16194pt x 113.81102pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18 <./pics/pic2_mu_T-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pics/pic2_scheme.eps>
+(epstopdf)                    date: 2017-09-19 13:39:53
+(epstopdf)                    size: 44087 bytes
+(epstopdf)             Output file: <pics/pic2_scheme-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-19 13:40:05
+(epstopdf)                    size: 17009 bytes
+(epstopdf)             Command: <epstopdf --outfile=pics/pic2_scheme-eps-conver
+ted-to.pdf pics/pic2_scheme.eps>
+(epstopdf)             \includegraphics on input line 146.
+Package epstopdf Info: Output file is already uptodate.
+
+<pics/pic2_scheme-eps-converted-to.pdf, id=105, 120.45pt x 75.28125pt>
+File: pics/pic2_scheme-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pics/pic2_scheme-eps-converted-to.pdf>
+Package pdftex.def Info: pics/pic2_scheme-eps-converted-to.pdf used on input li
+ne 146.
+(pdftex.def)             Requested size: 182.11546pt x 113.81102pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[19 <./pics/pic2_sigma_T-eps-converted-to.pdf>]
+Overfull \hbox (2.4213pt too wide) in paragraph at lines 160--161
+[]\T2A/cmr/m/n/10 Запустить про-грам-му для из-ме-ре-ния тем-пе-ра-тур-ной за-в
+и-си-мо-сти элек-
+ []
+
+[20 <./pics/pic2_scheme-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pics/pic2_experiment.eps>
+(epstopdf)                    date: 2017-09-19 12:57:11
+(epstopdf)                    size: 22361 bytes
+(epstopdf)             Output file: <pics/pic2_experiment-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2017-09-19 13:31:50
+(epstopdf)                    size: 9906 bytes
+(epstopdf)             Command: <epstopdf --outfile=pics/pic2_experiment-eps-co
+nverted-to.pdf pics/pic2_experiment.eps>
+(epstopdf)             \includegraphics on input line 195.
+Package epstopdf Info: Output file is already uptodate.
+
+<pics/pic2_experiment-eps-converted-to.pdf, id=116, 115.43124pt x 78.2925pt>
+File: pics/pic2_experiment-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pics/pic2_experiment-eps-converted-to.pdf>
+Package pdftex.def Info: pics/pic2_experiment-eps-converted-to.pdf used on inpu
+t line 195.
+(pdftex.def)             Requested size: 167.80429pt x 113.81102pt.
+ [21 <./pics/pic2_experiment-eps-converted-to.pdf>]) [22] (fks_project.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4633 strings out of 493334
- 58390 string characters out of 3139263
- 123646 words of memory out of 3000000
- 8037 multiletter control sequences out of 15000+200000
+ 4658 strings out of 493334
+ 59196 string characters out of 3139263
+ 123741 words of memory out of 3000000
+ 8058 multiletter control sequences out of 15000+200000
  13770 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,18n,26p,2601b,269s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\User
-s\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm0500.pk> <C:\
-Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
-> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm070
-0.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\lab
-x1200.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600
-\labx1440.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dp
-i600\labx1000.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2
-a\dpi600\labx2488.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\l
-h-t2a\dpi600\larm1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-mi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb>
-<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files/MiKTeX 2.9
-/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmsy7.pfb>
-Output written on fks_project.pdf (19 pages, 310943 bytes).
+ <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm05
+00.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+tcrm1000.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi
+600\larm0700.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a
+\dpi600\labx1200.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh
+-t2a\dpi600\labx1440.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\l
+h\lh-t2a\dpi600\labx1000.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\lh\lh-t2a\dpi600\labx2488.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\
+ljfour\lh\lh-t2a\dpi600\larm1000.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmmi5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy7.pfb>
+Output written on fks_project.pdf (23 pages, 365321 bytes).
 PDF statistics:
- 418 PDF objects out of 1000 (max. 8388607)
+ 455 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

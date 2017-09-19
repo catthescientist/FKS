@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Новый документ 1">
+   sodipodi:docname="pic2_E_T.svg">
   <defs
      id="defs4">
     <marker
@@ -53,9 +53,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.8070312"
-     inkscape:cx="96.846685"
-     inkscape:cy="72.076656"
+     inkscape:zoom="4.1263481"
+     inkscape:cx="78.476472"
+     inkscape:cy="84.295434"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -72,7 +72,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -273,7 +273,9 @@
          sodipodi:role="line"
          id="tspan4538"
          x="27.459776"
-         y="915.68738">Eg, эВ</tspan></text>
+         y="915.68738">E<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan3045">g</tspan>, эВ</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
@@ -285,5 +287,18 @@
          id="tspan4542"
          x="140.21129"
          y="1031.3514">T, К</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
+       x="32.384998"
+       y="933.7821"
+       id="text4536-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4538-7"
+         x="32.384998"
+         y="933.7821">E<tspan
+   style="font-size:65.00091553%;baseline-shift:sub"
+   id="tspan3043">g</tspan>(0)</tspan></text>
   </g>
 </svg>
