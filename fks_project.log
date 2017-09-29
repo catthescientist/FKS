@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  22 SEP 2017 12:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  29 SEP 2017 13:28
 entering extended mode
 **./fks_project.tex
 (fks_project.tex
@@ -632,9 +632,9 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))
 \verbatim@out=\write3
-runsystem(touch w18-test-2017922756.tex)...executed.
+runsystem(touch w18-test-2017929808.tex)...executed.
 
-runsystem(rm -f w18-test-2017922756.tex)...executed.
+runsystem(rm -f w18-test-2017929808.tex)...executed.
 
 runsystem(rm -f "fks_project.gnuploterrors")...executed.
 
@@ -958,12 +958,8 @@ G,.JBIG2,.JB2,.eps]
 ]) (chapters/fks_1.tex [2
 
 ]
-Overfull \hbox (0.88776pt too wide) in paragraph at lines 16--17
-\T2A/cmr/m/n/10 Определение рас-пре-де-ле-ния удель-но-го со-про-тив-ле-ния по 
-длине пря-мо-уголь-
- []
-
 LaTeX Font Info:    Try loading font information for U+msa on input line 22.
+
 ("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
@@ -1331,16 +1327,43 @@ Overfull \hbox (2.0136pt too wide) in paragraph at lines 212--213
 а-ние свойств
  []
 
-) [29] (fks_project.aux)
+) (chapters/fks_4.tex [29] [30
+
+] [31] [32] [33]
+Package epstopdf Info: Source file: <pics/pic4_taumetr.eps>
+(epstopdf)                    date: 2017-09-27 13:39:00
+(epstopdf)                    size: 58839 bytes
+(epstopdf)             Output file: <pics/pic4_taumetr-eps-converted-to.pdf>
+(epstopdf)                    date: 2017-09-29 13:13:40
+(epstopdf)                    size: 22410 bytes
+(epstopdf)             Command: <epstopdf --outfile=pics/pic4_taumetr-eps-conve
+rted-to.pdf pics/pic4_taumetr.eps>
+(epstopdf)             \includegraphics on input line 139.
+Package epstopdf Info: Output file is already uptodate.
+
+<pics/pic4_taumetr-eps-converted-to.pdf, id=169, 126.4725pt x 124.465pt>
+File: pics/pic4_taumetr-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pics/pic4_taumetr-eps-converted-to.pdf>
+Package pdftex.def Info: pics/pic4_taumetr-eps-converted-to.pdf used on input l
+ine 139.
+(pdftex.def)             Requested size: 173.48433pt x 170.71652pt.
+ [34 <./pics/pic4_taumetr-eps-converted-to.pdf>] [35]
+Overfull \hbox (2.1447pt too wide) in paragraph at lines 170--171
+[]\T2A/cmr/m/n/10 Рассчитать про-филь ста-ти-че-ско-го рас-пре-де-ле-ния, за-те
+м за-пу-стить рас-
+ []
+
+[36]) [37] (fks_project.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4682 strings out of 493334
- 59864 string characters out of 3139263
- 124804 words of memory out of 3000000
- 8076 multiletter control sequences out of 15000+200000
+ 4688 strings out of 493334
+ 60069 string characters out of 3139263
+ 124850 words of memory out of 3000000
+ 8078 multiletter control sequences out of 15000+200000
  13770 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,19n,26p,2601b,269s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1362,9 +1385,9 @@ gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files
 9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmsy7.pfb>
-Output written on fks_project.pdf (30 pages, 420659 bytes).
+Output written on fks_project.pdf (38 pages, 474697 bytes).
 PDF statistics:
- 495 PDF objects out of 1000 (max. 8388607)
+ 537 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
