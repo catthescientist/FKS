@@ -9,8 +9,16 @@
 \usepackage{amsfonts}
 \usepackage{textcomp}
 
-\newcommand{\anonchapter}[1]{\chapter*{#1}\addcontentsline{toc}{chapter}{\numberline {}#1}}
 \setcounter{tocdepth}{0}
+
+\newcommand{\anonchapter}[1]{
+\chapter*{#1}\addcontentsline{toc}{chapter}
+{\numberline {}#1}
+{\setcounter{section}{0}}
+{\setcounter{figure}{0}}
+{\setcounter{table}{0}}
+{\setcounter{equation}{0}}
+}
 
 \newenvironment{introduction}
 
@@ -28,4 +36,5 @@
 \input{chapters/fks_2}
 \input{chapters/fks_3}
 \input{chapters/fks_4}
+\input{chapters/fks_5}
 \end{document}
