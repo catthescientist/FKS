@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  5 OCT 2017 15:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  12 OCT 2017 12:45
 entering extended mode
 **./fks_project.tex
 (fks_project.tex
@@ -632,9 +632,9 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))
 \verbatim@out=\write3
-runsystem(touch w18-test-2017105957.tex)...executed.
+runsystem(touch w18-test-20171012765.tex)...executed.
 
-runsystem(rm -f w18-test-2017105957.tex)...executed.
+runsystem(rm -f w18-test-20171012765.tex)...executed.
 
 runsystem(rm -f "fks_project.gnuploterrors")...executed.
 
@@ -1410,7 +1410,7 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  4698 strings out of 493334
- 60316 string characters out of 3139263
+ 60317 string characters out of 3139263
  124926 words of memory out of 3000000
  8084 multiletter control sequences out of 15000+200000
  13770 words of font info for 33 fonts, out of 3000000 for 9000
@@ -1434,7 +1434,7 @@ gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files
 9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmsy7.pfb>
-Output written on fks_project.pdf (40 pages, 484458 bytes).
+Output written on fks_project.pdf (40 pages, 484536 bytes).
 PDF statistics:
  550 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
