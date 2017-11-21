@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  16 NOV 2017 18:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  21 NOV 2017 16:32
 entering extended mode
 **./fks_project.tex
 (fks_project.tex
@@ -632,9 +632,9 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))
 \verbatim@out=\write3
-runsystem(touch w18-test-201711161095.tex)...executed.
+runsystem(touch w18-test-20171121992.tex)...executed.
 
-runsystem(rm -f w18-test-201711161095.tex)...executed.
+runsystem(rm -f w18-test-20171121992.tex)...executed.
 
 runsystem(rm -f "fks_project.gnuploterrors")...executed.
 
@@ -1426,10 +1426,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [39] [40 <./pics/pic5_strip-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pics/pic5_korbino.eps>
-(epstopdf)                    date: 2017-11-16 15:49:10
-(epstopdf)                    size: 13172 bytes
+(epstopdf)                    date: 2017-11-16 18:26:15
+(epstopdf)                    size: 13512 bytes
 (epstopdf)             Output file: <pics/pic5_korbino-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 16:12:02
+(epstopdf)                    date: 2017-11-16 18:26:15
 (epstopdf)                    size: 6060 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic5_korbino-eps-conve
 rted-to.pdf pics/pic5_korbino.eps>
@@ -1449,10 +1449,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [41]
 Package epstopdf Info: Source file: <pics/pic5_scheme.eps>
-(epstopdf)                    date: 2017-11-16 18:14:54
-(epstopdf)                    size: 10671 bytes
+(epstopdf)                    date: 2017-11-16 18:26:15
+(epstopdf)                    size: 10935 bytes
 (epstopdf)             Output file: <pics/pic5_scheme-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-11-16 18:15:48
+(epstopdf)                    date: 2017-11-16 18:26:15
 (epstopdf)                    size: 5140 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic5_scheme-eps-conver
 ted-to.pdf pics/pic5_scheme.eps>
@@ -1465,17 +1465,18 @@ File: pics/pic5_scheme-eps-converted-to.pdf Graphic file (type pdf)
 Package pdftex.def Info: pics/pic5_scheme-eps-converted-to.pdf used on input li
 ne 137.
 (pdftex.def)             Requested size: 334.17337pt x 170.71652pt.
-) [42 <./pics/pic5_korbino-eps-converted-to.pdf> <./pics/pic5_scheme-eps-conver
-ted-to.pdf>] (fks_project.aux)
+ [42 <./pics/pic5_korbino-eps-converted-to.pdf> <./pics/pic5_scheme-eps-convert
+ed-to.pdf>] [43]) [44]
+(fks_project.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4717 strings out of 493334
- 60916 string characters out of 3139263
- 125970 words of memory out of 3000000
- 8100 multiletter control sequences out of 15000+200000
+ 4719 strings out of 493334
+ 60933 string characters out of 3139263
+ 125993 words of memory out of 3000000
+ 8102 multiletter control sequences out of 15000+200000
  13770 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,19n,26p,2601b,269s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1497,9 +1498,9 @@ gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files
 9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmsy7.pfb>
-Output written on fks_project.pdf (43 pages, 512052 bytes).
+Output written on fks_project.pdf (45 pages, 518466 bytes).
 PDF statistics:
- 572 PDF objects out of 1000 (max. 8388607)
+ 580 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
