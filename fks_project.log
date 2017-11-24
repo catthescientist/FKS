@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  21 NOV 2017 16:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  24 NOV 2017 16:46
 entering extended mode
 **./fks_project.tex
 (fks_project.tex
@@ -632,9 +632,9 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))
 \verbatim@out=\write3
-runsystem(touch w18-test-20171121992.tex)...executed.
+runsystem(touch w18-test-201711241006.tex)...executed.
 
-runsystem(rm -f w18-test-20171121992.tex)...executed.
+runsystem(rm -f w18-test-201711241006.tex)...executed.
 
 runsystem(rm -f "fks_project.gnuploterrors")...executed.
 
@@ -1329,7 +1329,7 @@ Overfull \hbox (2.0136pt too wide) in paragraph at lines 208--209
 
 ) (chapters/fks_4.tex [29] [30
 
-] [31] [32] [33]
+] [31] [32]
 Package epstopdf Info: Source file: <pics/pic4_taumetr.eps>
 (epstopdf)                    date: 2017-09-27 13:39:00
 (epstopdf)                    size: 58839 bytes
@@ -1341,14 +1341,14 @@ rted-to.pdf pics/pic4_taumetr.eps>
 (epstopdf)             \includegraphics on input line 135.
 Package epstopdf Info: Output file is already uptodate.
 
-<pics/pic4_taumetr-eps-converted-to.pdf, id=169, 126.4725pt x 124.465pt>
+<pics/pic4_taumetr-eps-converted-to.pdf, id=166, 126.4725pt x 124.465pt>
 File: pics/pic4_taumetr-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic4_taumetr-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic4_taumetr-eps-converted-to.pdf used on input l
 ine 135.
 (pdftex.def)             Requested size: 173.48433pt x 170.71652pt.
- [34 <./pics/pic4_taumetr-eps-converted-to.pdf>] [35]
+ [33] [34 <./pics/pic4_taumetr-eps-converted-to.pdf>] [35]
 Overfull \hbox (2.1447pt too wide) in paragraph at lines 166--167
 []\T2A/cmr/m/n/10 Рассчитать про-филь ста-ти-че-ско-го рас-пре-де-ле-ния, за-те
 м за-пу-стить рас-
@@ -1466,17 +1466,19 @@ Package pdftex.def Info: pics/pic5_scheme-eps-converted-to.pdf used on input li
 ne 137.
 (pdftex.def)             Requested size: 334.17337pt x 170.71652pt.
  [42 <./pics/pic5_korbino-eps-converted-to.pdf> <./pics/pic5_scheme-eps-convert
-ed-to.pdf>] [43]) [44]
-(fks_project.aux)
+ed-to.pdf>] [43])
+(chapters/fks_6.tex [44] [45
+
+]) [46] (fks_project.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4719 strings out of 493334
- 60933 string characters out of 3139263
- 125993 words of memory out of 3000000
- 8102 multiletter control sequences out of 15000+200000
+ 4723 strings out of 493334
+ 60983 string characters out of 3139263
+ 125004 words of memory out of 3000000
+ 8103 multiletter control sequences out of 15000+200000
  13770 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,19n,26p,2601b,269s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1498,9 +1500,9 @@ gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Program Files
 9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/
 type1/public/amsfonts/cm/cmsy5.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/cm/cmsy7.pfb>
-Output written on fks_project.pdf (45 pages, 518466 bytes).
+Output written on fks_project.pdf (47 pages, 523295 bytes).
 PDF statistics:
- 580 PDF objects out of 1000 (max. 8388607)
+ 588 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  96 words of extra memory for PDF output out of 10000 (max. 10000000)
 
