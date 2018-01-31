@@ -113,9 +113,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4335937"
-     inkscape:cx="68.293953"
-     inkscape:cy="98.345149"
+     inkscape:zoom="2.9473915"
+     inkscape:cx="4.8477477"
+     inkscape:cy="6.1605592"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -132,7 +132,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -232,28 +232,14 @@
        id="path3076-82"
        inkscape:connector-curvature="0" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 72.810012,71.604095 191.56499,39.448482"
-       id="path3103"
-       inkscape:connector-curvature="0"
-       transform="translate(0,952.36218)"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 121.4107,58.207053 175.47213,4.3276443"
-       id="path3105"
-       inkscape:connector-curvature="0"
-       transform="translate(0,952.36218)"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0"
-       d="m 97.327508,1035.2621 24.184962,-24.6115"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="m 97.50744,1035.2021 24.18496,-24.6115"
        id="path3105-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4, 4;stroke-dashoffset:0"
-       d="m 30.349298,1035.19 42.686935,-11.2843"
+       style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:2, 2;stroke-dashoffset:0"
+       d="M 30.409275,1035.13 188.45245,993.1406"
        id="path3941"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -279,5 +265,10 @@
          id="tspan3949"
          x="85.624573"
          y="1014.7922">П</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 72.152738,1024.1728 48.849882,-13.0893 54.15364,-54.15359"
+       id="path3027"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>

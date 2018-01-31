@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  30 JAN 2018 18:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  31 JAN 2018 17:15
 entering extended mode
 **./fks_project.tex
 (fks_project.tex
@@ -632,9 +632,9 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))
 \verbatim@out=\write3
-runsystem(touch w18-test-20181301107.tex)...executed.
+runsystem(touch w18-test-20181311035.tex)...executed.
 
-runsystem(rm -f w18-test-20181301107.tex)...executed.
+runsystem(rm -f w18-test-20181311035.tex)...executed.
 
 runsystem(rm -f "fks_project.gnuploterrors")...executed.
 
@@ -1479,7 +1479,7 @@ Package epstopdf Info: Source file: <pics/pic6_transition.eps>
 (epstopdf)                    size: 13369 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic6_transition-eps-co
 nverted-to.pdf pics/pic6_transition.eps>
-(epstopdf)             \includegraphics on input line 72.
+(epstopdf)             \includegraphics on input line 73.
 Package epstopdf Info: Output file is already uptodate.
 
 <pics/pic6_transition-eps-converted-to.pdf, id=222, 155.58125pt x 80.3pt>
@@ -1487,7 +1487,7 @@ File: pics/pic6_transition-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic6_transition-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic6_transition-eps-converted-to.pdf used on inpu
-t line 72.
+t line 73.
 (pdftex.def)             Requested size: 155.58086pt x 80.29979pt.
 
 
@@ -1502,21 +1502,21 @@ Package epstopdf Info: Source file: <pics/pic6_zone.eps>
 (epstopdf)                    size: 22556 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic6_zone-eps-converte
 d-to.pdf pics/pic6_zone.eps>
-(epstopdf)             \includegraphics on input line 93.
+(epstopdf)             \includegraphics on input line 94.
 Package epstopdf Info: Output file is already uptodate.
  <pics/pic6_zone-eps-converted-to.pdf, id=226, 155.58125pt x 77.28876pt>
 File: pics/pic6_zone-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic6_zone-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic6_zone-eps-converted-to.pdf used on input line
- 93.
+ 94.
 (pdftex.def)             Requested size: 343.68042pt x 170.71652pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [47 <./pics/pic6_transition-eps-converted-to.pdf>]
-Overfull \hbox (3.53624pt too wide) in paragraph at lines 128--129
+Overfull \hbox (3.53624pt too wide) in paragraph at lines 130--131
 []\T2A/cmr/m/n/10 При ком-нат-ной тем-пе-ра-ту-ре зна-че-ние вол-но-во-го век-т
 о-ра элек-тро-на $\OMS/cmsy/m/n/10 j[]j 
  []
@@ -1530,7 +1530,7 @@ Package epstopdf Info: Source file: <pics/pic6_direct.eps>
 (epstopdf)                    size: 8934 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic6_direct-eps-conver
 ted-to.pdf pics/pic6_direct.eps>
-(epstopdf)             \includegraphics on input line 157.
+(epstopdf)             \includegraphics on input line 159.
 Package epstopdf Info: Output file is already uptodate.
 
 <pics/pic6_direct-eps-converted-to.pdf, id=240, 158.5925pt x 79.29625pt>
@@ -1538,18 +1538,18 @@ File: pics/pic6_direct-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic6_direct-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic6_direct-eps-converted-to.pdf used on input li
-ne 157.
+ne 159.
 (pdftex.def)             Requested size: 158.59209pt x 79.29604pt.
  [49 <./pics/pic6_direct-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pics/pic6_nondirect.eps>
-(epstopdf)                    date: 2018-01-25 16:36:46
-(epstopdf)                    size: 32590 bytes
+(epstopdf)                    date: 2018-01-31 16:45:48
+(epstopdf)                    size: 32574 bytes
 (epstopdf)             Output file: <pics/pic6_nondirect-eps-converted-to.pdf>
-(epstopdf)                    date: 2018-01-25 16:48:17
-(epstopdf)                    size: 14013 bytes
+(epstopdf)                    date: 2018-01-31 16:46:05
+(epstopdf)                    size: 14015 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic6_nondirect-eps-con
 verted-to.pdf pics/pic6_nondirect.eps>
-(epstopdf)             \includegraphics on input line 187.
+(epstopdf)             \includegraphics on input line 189.
 Package epstopdf Info: Output file is already uptodate.
 
 <pics/pic6_nondirect-eps-converted-to.pdf, id=247, 158.5925pt x 79.29625pt>
@@ -1557,7 +1557,7 @@ File: pics/pic6_nondirect-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic6_nondirect-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic6_nondirect-eps-converted-to.pdf used on input
- line 187.
+ line 189.
 (pdftex.def)             Requested size: 158.59209pt x 79.29604pt.
  [50 <./pics/pic6_nondirect-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pics/pic6_exiton.eps>
@@ -1568,7 +1568,7 @@ Package epstopdf Info: Source file: <pics/pic6_exiton.eps>
 (epstopdf)                    size: 17109 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic6_exiton-eps-conver
 ted-to.pdf pics/pic6_exiton.eps>
-(epstopdf)             \includegraphics on input line 221.
+(epstopdf)             \includegraphics on input line 223.
 Package epstopdf Info: Output file is already uptodate.
 
 <pics/pic6_exiton-eps-converted-to.pdf, id=253, 198.7425pt x 79.29625pt>
@@ -1576,9 +1576,15 @@ File: pics/pic6_exiton-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic6_exiton-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic6_exiton-eps-converted-to.pdf used on input li
-ne 221.
+ne 223.
 (pdftex.def)             Requested size: 198.742pt x 79.29604pt.
- [51 <./pics/pic6_exiton-eps-converted-to.pdf>]
+
+Overfull \hbox (0.17265pt too wide) in paragraph at lines 234--235
+ \T2A/cmr/bx/n/10 По-гло-ще-ние све-та сво-бод-ны-ми но-си-те-ля-ми за-ря-да[] 
+\T2A/cmr/m/n/10 Сво-бод-ные элек-
+ []
+
+[51 <./pics/pic6_exiton-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <pics/pic6_subzone.eps>
 (epstopdf)                    date: 2018-01-30 16:37:10
 (epstopdf)                    size: 39490 bytes
@@ -1587,7 +1593,7 @@ Package epstopdf Info: Source file: <pics/pic6_subzone.eps>
 (epstopdf)                    size: 16305 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic6_subzone-eps-conve
 rted-to.pdf pics/pic6_subzone.eps>
-(epstopdf)             \includegraphics on input line 253.
+(epstopdf)             \includegraphics on input line 255.
 Package epstopdf Info: Output file is already uptodate.
 
 <pics/pic6_subzone-eps-converted-to.pdf, id=259, 199.74625pt x 79.29625pt>
@@ -1595,7 +1601,7 @@ File: pics/pic6_subzone-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic6_subzone-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic6_subzone-eps-converted-to.pdf used on input l
-ine 253.
+ine 255.
 (pdftex.def)             Requested size: 199.74576pt x 79.29604pt.
 
 
@@ -1610,33 +1616,53 @@ Package epstopdf Info: Source file: <pics/pic6_spectrum.eps>
 (epstopdf)                    size: 14234 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic6_spectrum-eps-conv
 erted-to.pdf pics/pic6_spectrum.eps>
-(epstopdf)             \includegraphics on input line 267.
+(epstopdf)             \includegraphics on input line 269.
 Package epstopdf Info: Output file is already uptodate.
  <pics/pic6_spectrum-eps-converted-to.pdf, id=263, 159.59625pt x 80.3pt>
 File: pics/pic6_spectrum-eps-converted-to.pdf Graphic file (type pdf)
 
 <use pics/pic6_spectrum-eps-converted-to.pdf>
 Package pdftex.def Info: pics/pic6_spectrum-eps-converted-to.pdf used on input 
-line 267.
+line 269.
 (pdftex.def)             Requested size: 159.59584pt x 80.29979pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[53 <./pics/pic6_subzone-eps-converted-to.pdf>]) [54 <./pics/pic6_spectrum-eps-
-converted-to.pdf>] (fks_project.aux)
+[53 <./pics/pic6_subzone-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pics/pic6_scheme.eps>
+(epstopdf)                    date: 2018-01-31 13:04:25
+(epstopdf)                    size: 16869 bytes
+(epstopdf)             Output file: <pics/pic6_scheme-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-01-31 13:06:43
+(epstopdf)                    size: 8162 bytes
+(epstopdf)             Command: <epstopdf --outfile=pics/pic6_scheme-eps-conver
+ted-to.pdf pics/pic6_scheme.eps>
+(epstopdf)             \includegraphics on input line 282.
+Package epstopdf Info: Output file is already uptodate.
+
+<pics/pic6_scheme-eps-converted-to.pdf, id=269, 157.58875pt x 36.135pt>
+File: pics/pic6_scheme-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pics/pic6_scheme-eps-converted-to.pdf>
+Package pdftex.def Info: pics/pic6_scheme-eps-converted-to.pdf used on input li
+ne 282.
+(pdftex.def)             Requested size: 157.58835pt x 36.13489pt.
+ [54 <./pics/pic6_spectrum-eps-converted-to.pdf> <./pics/pic6_scheme-eps-conver
+ted-to.pdf>] [55] [56]) [57]
+(fks_project.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4776 strings out of 493334
- 62543 string characters out of 3139263
- 125104 words of memory out of 3000000
- 8149 multiletter control sequences out of 15000+200000
+ 4786 strings out of 493334
+ 62787 string characters out of 3139263
+ 125160 words of memory out of 3000000
+ 8158 multiletter control sequences out of 15000+200000
  13770 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,19n,26p,4388b,269s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 35i,19n,26p,4388b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi600\larm05
 00.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
 tcrm1000.pk> <C:\Users\1\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\lh\lh-t2a\dpi
@@ -1658,9 +1684,9 @@ lic/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
 /symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/sy
 mbols/msbm7.pfb>
-Output written on fks_project.pdf (55 pages, 662291 bytes).
+Output written on fks_project.pdf (58 pages, 678792 bytes).
 PDF statistics:
- 661 PDF objects out of 1000 (max. 8388607)
+ 675 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 131 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 136 words of extra memory for PDF output out of 10000 (max. 10000000)
 
