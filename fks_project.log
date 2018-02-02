@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  31 JAN 2018 17:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  2 FEB 2018 16:52
 entering extended mode
 **./fks_project.tex
 (fks_project.tex
@@ -632,9 +632,9 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))
 \verbatim@out=\write3
-runsystem(touch w18-test-20181311035.tex)...executed.
+runsystem(touch w18-test-2018221012.tex)...executed.
 
-runsystem(rm -f w18-test-20181311035.tex)...executed.
+runsystem(rm -f w18-test-2018221012.tex)...executed.
 
 runsystem(rm -f "fks_project.gnuploterrors")...executed.
 
@@ -1649,17 +1649,82 @@ Package pdftex.def Info: pics/pic6_scheme-eps-converted-to.pdf used on input li
 ne 282.
 (pdftex.def)             Requested size: 157.58835pt x 36.13489pt.
  [54 <./pics/pic6_spectrum-eps-converted-to.pdf> <./pics/pic6_scheme-eps-conver
-ted-to.pdf>] [55] [56]) [57]
-(fks_project.aux)
+ted-to.pdf>] [55] [56])
+(chapters/fks_7.tex [57] [58
+
+]
+Overfull \hbox (1.72345pt too wide) in paragraph at lines 28--29
+[]\T2A/cmr/m/n/10 В ши-ро-ко-зон-ных по-лу-про-вод-ни-ках при ком-нат-ной тем-п
+е-ра-ту-ре соб-ствен-
+ []
+
+[59] [60]
+Package epstopdf Info: Source file: <pics/pic7_SR.eps>
+(epstopdf)                    date: 2018-02-02 13:09:13
+(epstopdf)                    size: 29147 bytes
+(epstopdf)             Output file: <pics/pic7_SR-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-02 14:26:08
+(epstopdf)                    size: 12816 bytes
+(epstopdf)             Command: <epstopdf --outfile=pics/pic7_SR-eps-converted-
+to.pdf pics/pic7_SR.eps>
+(epstopdf)             \includegraphics on input line 101.
+Package epstopdf Info: Output file is already uptodate.
+ <pics/pic7_SR-eps-converted-to.pdf, id=297, 159.59625pt x 80.3pt>
+File: pics/pic7_SR-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pics/pic7_SR-eps-converted-to.pdf>
+Package pdftex.def Info: pics/pic7_SR-eps-converted-to.pdf used on input line 1
+01.
+(pdftex.def)             Requested size: 159.59584pt x 80.29979pt.
+ [61 <./pics/pic7_SR-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pics/pic7_transition.eps>
+(epstopdf)                    date: 2018-02-02 14:10:13
+(epstopdf)                    size: 22590 bytes
+(epstopdf)             Output file: <pics/pic7_transition-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2018-02-02 14:26:09
+(epstopdf)                    size: 9883 bytes
+(epstopdf)             Command: <epstopdf --outfile=pics/pic7_transition-eps-co
+nverted-to.pdf pics/pic7_transition.eps>
+(epstopdf)             \includegraphics on input line 114.
+Package epstopdf Info: Output file is already uptodate.
+
+<pics/pic7_transition-eps-converted-to.pdf, id=303, 116.435pt x 79.29625pt>
+File: pics/pic7_transition-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pics/pic7_transition-eps-converted-to.pdf>
+Package pdftex.def Info: pics/pic7_transition-eps-converted-to.pdf used on inpu
+t line 114.
+(pdftex.def)             Requested size: 116.43471pt x 79.29604pt.
+ [62 <./pics/pic7_transition-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <pics/pic7_spectrum.eps>
+(epstopdf)                    date: 2018-02-02 15:50:37
+(epstopdf)                    size: 11570 bytes
+(epstopdf)             Output file: <pics/pic7_spectrum-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-02-02 16:48:43
+(epstopdf)                    size: 5901 bytes
+(epstopdf)             Command: <epstopdf --outfile=pics/pic7_spectrum-eps-conv
+erted-to.pdf pics/pic7_spectrum.eps>
+(epstopdf)             \includegraphics on input line 139.
+Package epstopdf Info: Output file is already uptodate.
+
+<pics/pic7_spectrum-eps-converted-to.pdf, id=309, 160.6pt x 80.3pt>
+File: pics/pic7_spectrum-eps-converted-to.pdf Graphic file (type pdf)
+
+<use pics/pic7_spectrum-eps-converted-to.pdf>
+Package pdftex.def Info: pics/pic7_spectrum-eps-converted-to.pdf used on input 
+line 139.
+(pdftex.def)             Requested size: 160.5996pt x 80.29979pt.
+ [63 <./pics/pic7_spectrum-eps-converted-to.pdf>] [64]) [65] (fks_project.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 4786 strings out of 493334
- 62787 string characters out of 3139263
- 125160 words of memory out of 3000000
- 8158 multiletter control sequences out of 15000+200000
+ 4809 strings out of 493334
+ 63452 string characters out of 3139263
+ 125216 words of memory out of 3000000
+ 8175 multiletter control sequences out of 15000+200000
  13770 words of font info for 33 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  35i,19n,26p,4388b,270s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1684,9 +1749,9 @@ lic/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
 nts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts
 /symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/sy
 mbols/msbm7.pfb>
-Output written on fks_project.pdf (58 pages, 678792 bytes).
+Output written on fks_project.pdf (66 pages, 730456 bytes).
 PDF statistics:
- 675 PDF objects out of 1000 (max. 8388607)
+ 717 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
 
