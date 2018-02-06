@@ -1,4 +1,4 @@
-\documentclass[a4paper,14pt,cmcyralt]{report} %14-й шрифт
+\documentclass[a5paper,10pt,cmcyralt,openany]{report} %14-й шрифт
 \usepackage[utf8]{inputenc}
 \usepackage[T2A]{fontenc}
 \usepackage[english,russian]{babel}
@@ -9,26 +9,44 @@
 \usepackage{amsfonts}
 \usepackage{textcomp}
 
+\usepackage{geometry}
+\geometry{left=2cm}
+\geometry{right=2cm}
+\geometry{top=2cm}
+\geometry{bottom=2cm}
+
 \setcounter{tocdepth}{0}
 
-\newcommand{\anonchapter}[1]{
-\chapter*{#1}\addcontentsline{toc}{chapter}
-{\numberline {}#1}
-{\setcounter{section}{0}}
-{\setcounter{figure}{0}}
-{\setcounter{table}{0}}
-{\setcounter{equation}{0}}
-}
+%\renewcommand{\chaptername}{Лабораторная работа №}
 
-\newenvironment{introduction} %Введение
-
-%\usepackage{geometry}
-%\geometry{left=2cm}
-%\geometry{right=2cm}
-%\geometry{top=2cm}
-%\geometry{bottom=2cm}
+\makeatletter
+\def\hrulefill{\leavevmode \leaders \hrule height 1pt\hfill \kern \z@}
+\def\@makechapterhead#1{%
+\vspace*{10\p@}%
+{\parindent \z@ \raggedleft \reset@font
+	\Large \scshape
+	\ifnum \value{chapter}>0
+		Лабораторная работа №{}
+		\Large \thechapter
+	\fi
+	\vspace*{-10\p@}
+    \par\nobreak
+    \interlinepenalty\@M\hrulefill\newline\vspace*{0\p@}
+\LARGE \bfseries #1\par\nobreak
+\vspace*{-10\p@}%
+\hrulefill
+\par\nobreak
+\ifnum \value{chapter}>0
+	{\normalfont(4 часа)\par\nobreak}
+\fi
+%\normalfont(4 часа) \par\nobreak
+\vskip 20\p@
+}}
 
 \begin{document}
+
+%\renewcommand{\chaptername}{Лабораторная работа №}
+
 \input{chapters/fks_title} %Титульный лист
 \tableofcontents %Автоматический список литературы
 \input{chapters/fks_intro}
