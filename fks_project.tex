@@ -17,36 +17,32 @@
 
 \setcounter{tocdepth}{0}
 
-%\renewcommand{\chaptername}{Лабораторная работа №}
-
 \makeatletter
-\def\hrulefill{\leavevmode \leaders \hrule height 1pt\hfill \kern \z@}
-\def\@makechapterhead#1{%
-\vspace*{10\p@}%
-{\parindent \z@ \raggedleft \reset@font
+\def\@makechapterhead#1{
+\vspace*{10\p@}
+{
+	\parindent \z@ \raggedleft \reset@font
 	\Large \scshape
 	\ifnum \value{chapter}>0
-		Лабораторная работа №{}
-		\Large \thechapter
+		Лабораторная работа № \Large \thechapter
 	\fi
 	\vspace*{-10\p@}
     \par\nobreak
-    \interlinepenalty\@M\hrulefill\newline\vspace*{0\p@}
-\LARGE \bfseries #1\par\nobreak
-\vspace*{-10\p@}%
-\hrulefill
-\par\nobreak
-\ifnum \value{chapter}>0
-	{\normalfont(4 часа)\par\nobreak}
-\fi
-%\normalfont(4 часа) \par\nobreak
-\vskip 20\p@
-}}
+	\leavevmode \leaders \hrule height 1pt\hfill \kern \z@
+	\newline
+	\LARGE \bfseries #1
+	\par\nobreak
+	\vspace*{-10\p@}%
+	\leavevmode \leaders \hrule height 1pt\hfill \kern \z@
+	\par\nobreak
+	\ifnum \value{chapter}>0
+		\normalfont(4 часа)
+	\fi
+	\vskip 20\p@
+}
+}
 
 \begin{document}
-
-%\renewcommand{\chaptername}{Лабораторная работа №}
-
 \input{chapters/fks_title} %Титульный лист
 \tableofcontents %Автоматический список литературы
 \input{chapters/fks_intro}
