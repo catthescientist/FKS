@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  7 FEB 2018 14:17
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.10.25)  25 APR 2018 14:19
 entering extended mode
 **./fks_project.tex
 (fks_project.tex
@@ -632,9 +632,9 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 ))
 \verbatim@out=\write3
-runsystem(touch w18-test-201827857.tex)...executed.
+runsystem(touch w18-test-2018425859.tex)...executed.
 
-runsystem(rm -f w18-test-201827857.tex)...executed.
+runsystem(rm -f w18-test-2018425859.tex)...executed.
 
 runsystem(rm -f "fks_project.gnuploterrors")...executed.
 
@@ -1006,7 +1006,8 @@ G,.JBIG2,.JB2,.eps]
 
 (chapters/fks_title.tex [1
 
-{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map}]) (fks_project.toc)
+{C:/Users/1/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]) (fks_project.t
+oc)
 \tf@toc=\write4
 \openout4 = `fks_project.toc'.
 
@@ -1393,11 +1394,11 @@ Overfull \hbox (5.97319pt too wide) in paragraph at lines 195--196
 [28]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 Package epstopdf Info: Source file: <pics/pic3_lorentz.eps>
-(epstopdf)                    date: 2017-09-20 13:01:21
-(epstopdf)                    size: 60517 bytes
+(epstopdf)                    date: 2018-04-25 13:02:11
+(epstopdf)                    size: 60532 bytes
 (epstopdf)             Output file: <pics/pic3_lorentz-eps-converted-to.pdf>
-(epstopdf)                    date: 2017-09-20 13:22:50
-(epstopdf)                    size: 21745 bytes
+(epstopdf)                    date: 2018-04-25 13:03:24
+(epstopdf)                    size: 21774 bytes
 (epstopdf)             Command: <epstopdf --outfile=pics/pic3_lorentz-eps-conve
 rted-to.pdf pics/pic3_lorentz.eps>
 (epstopdf)             \includegraphics on input line 12.
@@ -2025,7 +2026,7 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  5288 strings out of 493334
- 70558 string characters out of 3139263
+ 70559 string characters out of 3139263
  137832 words of memory out of 3000000
  8637 multiletter control sequences out of 15000+200000
  16937 words of font info for 37 fonts, out of 3000000 for 9000
@@ -2055,7 +2056,7 @@ ts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
 public/amsfonts/symbols/msam10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
 lic/amsfonts/symbols/msbm10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/symbols/msbm7.pfb>
-Output written on fks_project.pdf (85 pages, 761311 bytes).
+Output written on fks_project.pdf (85 pages, 761340 bytes).
 PDF statistics:
  832 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
