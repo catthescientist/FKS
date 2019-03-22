@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Новый документ 1">
+   sodipodi:docname="pic7_spectrum.svg">
   <defs
      id="defs4">
     <marker
@@ -119,9 +119,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.295"
-     inkscape:cx="88.736702"
-     inkscape:cy="53.831004"
+     inkscape:zoom="5.2139527"
+     inkscape:cx="118.35638"
+     inkscape:cy="60.017902"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -138,7 +138,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -233,7 +233,7 @@
          x="122.40717"
          y="1046.9574">λ<tspan
    style="font-size:65.00091553%;baseline-shift:sub"
-   id="tspan5030">i</tspan></tspan></text>
+   id="tspan5030">d</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Times New Roman;-inkscape-font-specification:Times New Roman"
